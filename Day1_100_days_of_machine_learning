@@ -1,0 +1,8 @@
+
+
+To determine whether a problem is supervised or not, we can examine the following conditions:
+
+1. **Input and Output**: A supervised problem must have both input data and corresponding output labels.
+2. **Regression Problem**: If the output is a numerical value, we classify it as a regression problem.
+3. **Classification Problem**: If the output represents categories or classes, it falls into the category of classification problems.
+

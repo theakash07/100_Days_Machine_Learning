@@ -15,6 +15,8 @@ unsupervised learning is of 4 types:
     3. Anamoly detection
     4. Association rule learning
 
+3. Semisupervised
+4. Reinforcement.
 
 There are two types of learning used in production level. 
    1. Batch learning

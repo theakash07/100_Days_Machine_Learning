@@ -15,3 +15,14 @@ unsupervised learning is of 4 types:
     3. Anamoly detection
     4. Association rule learning
 
+
+There are two types of learning used in production level. 
+   1. Batch learning
+   2. Online learning
+Batch learning = In this learning we pull the data to our local store there we train our model and later we deploy on servers so that users can use. 
+                  But it's has some limitations like you won't be able to train the current data which is the available on the server for the moment.
+                  it's rigrous process you have to daily or weekly or montly need to pull data from server and train it and again deploy on server.
+
+Online learning = In this learning we train our model and if the model detects the new parameters it also learn from it real time which make the user experience seamless. 
+                  it's risky and tricky. 
+                  

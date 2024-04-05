@@ -1,8 +1,17 @@
 
-
 To determine whether a problem is supervised or not, we can examine the following conditions:
-
+SUPERVISE LEARNING IS OF TWO TYPES: 
+      1. REGRESSION
+      2. CLASSIFICATION
 1. **Input and Output**: A supervised problem must have both input data and corresponding output labels.
 2. **Regression Problem**: If the output is a numerical value, we classify it as a regression problem.
 3. **Classification Problem**: If the output represents categories or classes, it falls into the category of classification problems.
+
+
+To determine whether a problem is UN-supervised or not, we can examine the following conditions:
+unsupervised learning is of 4 types: 
+    1. Clustering
+    2. Dimensionality reduction
+    3. Anamoly detection
+    4. Association rule learning
 

@@ -28,6 +28,6 @@ Batch learning = In this learning we pull the data to our local store there we t
 Online learning = In this learning we train our model and if the model detects the new parameters it also learn from it real time which make the user experience seamless. 
                   it's risky and tricky. 
                   There are two libraries which we used for training on streaming data 
-                  1. Riverr
-                  2. Vowpal rabbit
+                  1. Riverr.
+                  2. Vowpal rabbit.
                   

@@ -47,4 +47,7 @@ THere are Two types of model learning.
                                     2. Learning Vector Quantization (LVQ)
                                     3. Self-Organizing Maps (SOM)
                                     4. Locally Weighted Learning (LWL)
+2. Model Based Learning : 
+                         This learning is generalisation of best fit on the training data.
+                          
                   

@@ -30,4 +30,21 @@ Online learning = In this learning we train our model and if the model detects t
                   There are two libraries which we used for training on streaming data 
                   1. Riverr.
                   2. Vowpal rabbit.
+
+======How our machine learning model learns ? ==============
+THere are Two types of model learning.
+ 1. Instance based leanring.
+ 2. Model based learning.
+
+    1. Instance based Learning:
+                               Instance based leanring is like Cramming. 
+                               In this learning your algorithms doesn't learn from the data it just simply holds the data.
+                               when query comes it's finds the nearest data point of the query and make prediciton accordinng to it.
+
+                               Some popular instance-based learning algorithms include:
+
+                                    1. K-Nearest Neighbors (KNN)
+                                    2. Learning Vector Quantization (LVQ)
+                                    3. Self-Organizing Maps (SOM)
+                                    4. Locally Weighted Learning (LWL)
                   

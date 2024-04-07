@@ -51,5 +51,16 @@ THere are Two types of model learning.
                          This learning is generalisation of best fit on the training data.
 
 ========================================================================================================================================================================================
-                          
+                                                                               Challenges in Machine Learning 
+1. Data collection : We collect data from two ways 
+                     1. Api
+                     2. Web Scrapping
+
+2. Insufficient Labelled data :
+
+3. Non - Representative Data.
+          1. Sampling Noise
+           2. Sampling Bias.
+
+4. Poor Quality oF Data:
                   

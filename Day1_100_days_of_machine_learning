@@ -83,4 +83,7 @@ THere are Two types of model learning.
   A. Frame the Model:  
                      In this stage you define wether to use supervised or unseupervised , batch learning or online learningm , is it instance based or Model based leanring. 
                      What will be the cost and all the things..
+
+ B. Gathering Data : 
+                    Use own data, gather data via API or WebScrapping.
   

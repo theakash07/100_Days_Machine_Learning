@@ -86,4 +86,11 @@ THere are Two types of model learning.
 
  B. Gathering Data : 
                     Use own data, gather data via API or WebScrapping.
+ C. Data Preprocessing:
+ D. Exploratory Data Analysis:
+                   Use Graphs to VIsulaize
+                   Univariate analysis: you analyse each columns in data set.
+                   Bi-Variate analysis : you analyse two columns together to find the rlation between them.
+                   MultiVariate analysis : You analyse more than two columns to understad the relationship between them. 
+                                        
   

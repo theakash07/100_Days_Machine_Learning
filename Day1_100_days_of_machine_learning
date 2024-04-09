@@ -102,6 +102,8 @@ F. Model Training , Evaluation and Selection:
                     later, you look into the performance matrix.
 G. Model deployment: 
                    After making a model you turn the model into binary file (or pickle file) you use this file and convert it into API. 
-                    
+                   once the api made you upload it on servers like aws, heroku and gcp.
+H. Testing : 
+                   You roll out the model for testing which beta testing for the loyal customers.
                                         
   

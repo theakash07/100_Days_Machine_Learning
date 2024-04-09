@@ -100,6 +100,8 @@ E. Feature Engineering Columns :
 F. Model Training , Evaluation and Selection: 
                     You train diff model on data and find which model is best for the data. 
                     later, you look into the performance matrix.
+G. Model deployment: 
+                   After making a model you turn the model into binary file (or pickle file) you use this file and convert it into API. 
                     
                                         
   

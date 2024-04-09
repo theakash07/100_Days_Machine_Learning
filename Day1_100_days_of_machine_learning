@@ -71,7 +71,7 @@ THere are Two types of model learning.
 10.Cost Involved.
 
 ===========================================================================================================================================================================================
-                                                                                           Day - 3 
+                                                                              Day - 3 
 1. Application of Machine learning in B2B( bussiness to Bussiness). 
   A. Retail - Amazon / BigBazaar
   B. Banking And Finanace.
@@ -105,5 +105,7 @@ G. Model deployment:
                    once the api made you upload it on servers like aws, heroku and gcp.
 H. Testing : 
                    You roll out the model for testing which beta testing for the loyal customers.
-                                        
-  
+
+I. Optimizing: 
+===========================================================================================================================================================================================
+                                                                                 Day - 4

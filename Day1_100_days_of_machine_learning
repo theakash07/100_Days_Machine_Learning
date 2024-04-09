@@ -98,5 +98,8 @@ E. Feature Engineering Columns :
                                  you can create relevant columns from available columns..
 
 F. Model Training , Evaluation and Selection: 
+                    You train diff model on data and find which model is best for the data. 
+                    later, you look into the performance matrix.
+                    
                                         
   
